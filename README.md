@@ -178,7 +178,7 @@ Uni Links is used to provide deep linking capabilities, allowing the application
 
 ### Home
 
-<img src="homapage.png" width="250">
+<img src="homepage.png" width="250">
 
 ## Getting Started
 
