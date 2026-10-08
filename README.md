@@ -196,7 +196,7 @@ Make sure you have the following installed:
 Clone the repository:
 
 ```bash
-git clone https://github.com/MobinaFetrati/aviz-marketplace.git
+git clone https://github.com/CodeminTech/aviz-marketplace.git
 ```
 
 Navigate to the project directory:
@@ -230,10 +230,11 @@ This project was developed to demonstrate the implementation of a real-world mar
 
 It focuses on modular application structure, API integration, state management, dependency injection, local persistence, payment integration, and reusable UI components.
 
-## Author
+## 👩‍💻 Developer
 
-**Mobina Fetrati**
+**CodemonTech**
 
 Flutter Developer | Mobile Application Developer
 
-GitHub: [MobinaFetrati](https://github.com/MobinaFetrati)
+🔗 GitHub:
+GitHub: https://github.com/CodeminTech
